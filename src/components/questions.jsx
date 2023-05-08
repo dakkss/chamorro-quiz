@@ -101,6 +101,6 @@ for (const key of iterator) {
     answers.push(key)
 }
 
-export const questionsList = Object.entries(qList);
+export const questions = Object.entries(qList);
 
 export const definitionsList = ["sad", "sick", "eat", "everyday", "school", "wife", "girlfriend", "boyfriend", "window", "live (place)", "born", "ask", "at", "he she it", "you", "present here", "weather time", "now today", "if when (usually connects phrases)", "this", "okay already see you later", "we", "delay interrupt", "place put", "even though", "religious", "love", "do not", "take off/take out", "catch take", "think remember", "that", "can", "means it's a question/ question marker", "any either", "play music", "dream", "here", "chapel shrine", "when", "there", "have there is there exists", "singer", "priest", "prefix usually with verbs", "valley", "outside", "play", "like", "to (a place)", "go (to a place)", "beach", "to read", "where are you going", "how are you", "east", "west", "south", "north", "organ (instrument)", "vow (wedding)", "who", "what", "where at", "why", "how", "seed", "grass", "ants", "lemon", "ear", "leak", "rust", "where (relative to thing)/ used in questions with manu and ngai'an", "give", "cause to think/ remind", "enough", "know", "suffix to express third person/ plural possevive noun their", "eat", "inside/in", "jungle", "snore", "other/another", "week", "month", "year", "ant", "talk"]
